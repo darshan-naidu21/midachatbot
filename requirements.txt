@@ -1,0 +1,17 @@
+langchain
+langchain_community
+langchain_core
+langchain_text_splitters
+faiss-cpu
+pypdf
+streamlit
+sentence-transformers
+langchain-huggingface
+openai
+python-dotenv
+transformers
+pinecone
+pinecone-client
+boto3
+awscli
+langchain_pinecone
